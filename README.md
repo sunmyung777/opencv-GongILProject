@@ -1,0 +1,1 @@
+It is a opencv study project folder
